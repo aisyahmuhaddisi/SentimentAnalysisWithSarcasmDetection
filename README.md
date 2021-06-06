@@ -1,1 +1,2 @@
 # SentimentAnalysisWithSarcasmDetection
+This is my code for my own thesis as a requirement to finish the study on Computer Science Major. In this research, we did an analysis sentiment with Naive Bayes and Random Forest on Instagram comments dataset. As Instagram getting more popular, the data is getting bigger. And having 2200 maximum character on Instagram, way too big then Twitter maximum character. Using Instagram dataset, we did a research to do sentiment analysis with sarcasm detection, using Yunitasari, dkk (2019) research methods with modification.
